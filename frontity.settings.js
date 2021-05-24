@@ -1,19 +1,19 @@
 const settings = {
-  "name": "prairie-health-blog",
+  "name": "Kampung Inggris",
   "state": {
     "frontity": {
-      "url": "https://www.prairiehealth.co",
-      "title": "Prairie Health | Blog",
-      "description": "Prairie Health Blog"
+      "url": "https://www.kampunginggris.id",
+      "title": "Kampung Inggris Pare - Kampung Inggris LC Pare Kediri",
+      "description": "Terbukti Lebih dari 30.273 Alumni BERHASIL. Kampung Inggris LC - Lembaga Kursus Bahasa Inggris Terbesar Terlengkap &amp; Terfavorit di Kampung Inggris Pare Kediri"
     },
     "social": {
-        "facebook": "https://www.facebook.com/carebyprairie",
-        "instagram": "https://www.instagram.com/prairie_health",
-        "linkedin": "http://www.linkedin.com/company/31281223/",
+        "facebook": "https://www.youtube.com/channel/UCkqMfKX1LxQiiqU7UyZH4nw",
+        "instagram": "https://www.instagram.com/kampunginggrislc/",
+        "linkedin": "https://www.instagram.com/kampunginggrislc/",
     },
     "joinbutton" : {
-        "joinbuttonlabel": "Visit Prairie Health",
-        "joinbuttonurl": "https://www.prairiehealth.co/",
+        "joinbuttonlabel": "Visit Kampung Inggris",
+        "joinbuttonurl": "https://www.kampunginggrislc.com/",
     },
     "others": {
         "relatedpost": "Related Posts",
@@ -54,8 +54,8 @@ const settings = {
               "/category/lifestyle/"
             ],
             [
-              "Genetic Testing",
-              "/category/genetic-testing/"
+              "Info Akademik",
+              "/info-akademik/"
             ]
           ],
           "showSearchInHeader": true,
