@@ -72,7 +72,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://www.prairiehealth.co/blog",
+          "url": "https://www.kampunginggris.id",
           "params": {
             "per_page": 12,
             "type": ["post"],
