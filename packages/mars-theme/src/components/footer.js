@@ -13,7 +13,7 @@ const Footer = ({ state }) => {
             <FooterSubContainer>
                 <FooterLogo>
                     <StyledLink link="/">
-                        <img src={FooterLogoSVG} alt="Prairie" style={{ width: '115.6px', height: '24px'}}/>
+                        <img src={FooterLogoSVG} alt="Kampung Inggris" style={{ width: '115.6px', height: '24px'}}/>
                     </StyledLink>
                 </FooterLogo>
                 <Social>
