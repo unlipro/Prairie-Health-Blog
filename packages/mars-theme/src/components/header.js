@@ -14,7 +14,7 @@ const Header = ({ state }) => {
         <HeaderTop>
             <PrairieLogo>
                 <StyledLink link="/">
-                  <img src={LogoDark} alt="Prairie Health" style={{ width: '188px', height: '32px'}} />
+                  <img src={LogoDark} alt="Kampung Inggris" style={{ width: '188px', height: '32px'}} />
                 </StyledLink>
             </PrairieLogo>
 
