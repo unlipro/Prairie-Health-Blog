@@ -147,7 +147,7 @@ const Post = ({ state, actions, libraries }) => {
       {/* EMail Subscription */}
       <MailSubscription>
         <div className="mailMessage">
-            <h4>Subscribe for the latest from Prairie.</h4>
+            <h4>Subscribe for the latest from Kampung Inggris.</h4>
         </div>
         <div className="mailForm">
             <div id="mc_embed_signup">
